@@ -15,7 +15,7 @@ Qemoticon usage - A guide to advanced emoticon usage.
 for emailing, instant-messaging, forum posting and any
 other form of text-based communication on the net.
 
-  An emoticon -- short for "emotion icon", is a small
+  An emoticon -- short for "emotion icon" -- is a small
 string of text that can be used to represent a human 
 facial expression, emotion, or action.
 
@@ -50,7 +50,6 @@ words.
 on the following:
         - Smiling faces
         - Laughing faces
-        - Frowning faces
 
 |*-----------------------------------------------------*|
 |       1.1: Standard smile                             |
@@ -67,6 +66,7 @@ on the following:
         
         *See <SECTION 1.2: Slight smile>
 
+
 |*-----------------------------------------------------*|
 |       1.2: Slight smile                               |
 |*-----------------------------------------------------*|
@@ -81,3 +81,48 @@ on the following:
         ding on which groups it is used within.
         
         *See <SECTION 1.1: Standard smile>
+
+
+|*-----------------------------------------------------*|
+|       1.3: Open mouth smile                           |
+|*-----------------------------------------------------*|
+
+        :-D
+        :D
+
+          Smiling with mouth open. Use this to indicate
+        joy, euphoria, optimism.
+
+          Personally, I use this emoticon to let a joke
+        hang.
+
+
+|*-----------------------------------------------------*|
+|       1.4: Open mouth laugh                           |
+|*-----------------------------------------------------*|
+
+        xD
+        XD
+
+          Laughing with closed eyes, open mouth. Self e-
+        xplanatory, really. Use this to indicate someth-
+        ing is really funny.
+
+          Often times referred to as just 'X.D' (pronou-
+        nced "ecks dee").
+
+          On the modern net, this emoticon is generally
+        used ironically.
+
+
+|*-----------------------------------------------------*|
+|       1.5: So-so mouth                                |
+|*-----------------------------------------------------*|
+
+        :-/
+        :/
+
+          Use this to convey you're unsure about someth-
+        ing, skeptical, or vaguely unhappy.
+
+

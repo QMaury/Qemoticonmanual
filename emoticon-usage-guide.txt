@@ -1,3 +1,83 @@
-Qemoticon usage - A guide to advanced emoticon usage for the modern world
+Qemoticon usage - A guide to advanced emoticon usage.
 
-nothing here yet (0.0) 
+|*=====================================================*|
+        TABLE OF CONTENTS
+                SECTION 0: Introduction
+
+                SECTION 1: Smileys
+|*=====================================================*|
+
+|*=====================================================*|
+        SECTION 0: Introduction
+|*=====================================================*|
+
+  This document is a manual on advanced emoticon usage
+for emailing, instant-messaging, forum posting and any
+other form of text-based communication on the net.
+
+  An emoticon -- short for "emotion icon", is a small
+string of text that can be used to represent a human 
+facial expression, emotion, or action.
+
+  Emoticons are the predecessor to what is now commonly 
+known as 'Emoji'
+
+
+  This manual came about after I was having some trouble
+communicating a sarcastic comment over instant-messaging.
+
+  I tried doing an internet search for an emoticon that
+could appropiately express sarcasm, and quickly found
+that there is an incredibly vast selection of emoticons
+that can be used for a large range of different meanings.
+
+  Seeing that a lot of emoticon information is mostly 
+spread out on the net over different sites, different
+pages, or just word of mouth, I set out to confine as
+much information about emoticon usage to a single 
+plaintext document.
+
+  I hope that this guide will be a useful way to quick-
+ly and easily find an emoticon for whatever emotion you
+may find yourself needing to convey without using actual
+words.
+
+|*=====================================================*|
+        SECTION 1: Smileys
+|*=====================================================*|
+
+  This section of the document will contain information
+on the following:
+        - Smiling faces
+        - Laughing faces
+        - Frowning faces
+
+|*=====================================================*|
+        1.1: Standard smile
+|*=====================================================*|
+
+        :-)
+        :^)
+
+          The standard smiling face. Use this to convey 
+        happiness, satisfaction, wholesome intent.
+
+          May be used interchangeably with ':)', depend-
+        ing on which groups it is used within.
+        
+        *See <SECTION 1.2: Slight smile>
+
+|*=====================================================*|
+        1.2: Slight smile
+|*=====================================================*|
+
+        :)
+
+          A slightly less wholesome smile. This may be
+        used to to indicate sarcasm, passive-aggressive-
+        ness, jest, or vague malice.
+
+          May be used interchangeably with ':-)', depen-
+        ding on which groups it is used within.
+        
+        *See <SECTION 1.1: Standard smile>

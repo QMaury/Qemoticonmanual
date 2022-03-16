@@ -1,14 +1,14 @@
 Qemoticon usage - A guide to advanced emoticon usage.
 
 |*=====================================================*|
-        TABLE OF CONTENTS
-                SECTION 0: Introduction
-
-                SECTION 1: Smileys
+|       TABLE OF CONTENTS                               |
+|               SECTION 0: Introduction                 |
+|                                                       |
+|               SECTION 1: Smileys                      |
 |*=====================================================*|
 
 |*=====================================================*|
-        SECTION 0: Introduction
+|       SECTION 0: Introduction                         |
 |*=====================================================*|
 
   This document is a manual on advanced emoticon usage
@@ -43,7 +43,7 @@ may find yourself needing to convey without using actual
 words.
 
 |*=====================================================*|
-        SECTION 1: Smileys
+|       SECTION 1: Smileys                              |
 |*=====================================================*|
 
   This section of the document will contain information
@@ -53,7 +53,7 @@ on the following:
         - Frowning faces
 
 |*=====================================================*|
-        1.1: Standard smile
+|       1.1: Standard smile                             |
 |*=====================================================*|
 
         :-)
@@ -68,7 +68,7 @@ on the following:
         *See <SECTION 1.2: Slight smile>
 
 |*=====================================================*|
-        1.2: Slight smile
+|       1.2: Slight smile                               |
 |*=====================================================*|
 
         :)

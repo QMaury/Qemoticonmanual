@@ -2,14 +2,29 @@ Qemoticonmanual - A guide to advanced emoticon usage.
 Copyright 2022 Octavio "qms" Maury
 
 |*=====================================================*|
-|       TABLE OF CONTENTS                               |
-|               SECTION 0: Introduction                 |
 |                                                       |
-|               SECTION 1: Smileys                      |
+|       TABLE OF CONTENTS                               |
+|          SECTION 0: Introduction                      |
+|                                                       |
+|          SECTION 1: Smileys                           |
+|             ├──  SECTION 1.1: Standard smile          |
+|             ├──  SECTION 1.2: Slight smile            |
+|             ├──  SECTION 1.3: Open mouth smile        |
+|             ├──  SECTION 1.4: Open mouth laugh        |
+|             ├──  SECTION 1.5: So-so mouth             |
+|             ├──  SECTION 1.6: Cute smile              |
+|             ├──  SECTION 1.7: Excited                 |
+|             ├──  SECTION 1.8: Open mouth smile 2      |
+|             ├──  SECTION 1.9: Shocked                 |
+|             ├──  SECTION 1.10: Malicious smile        |
+|             └──  SECTION 1.11: Smile with sunglasses  |
+|                                                       |
 |*=====================================================*|
 
 |*=====================================================*|
+|                                                       |
 |       SECTION 0: Introduction                         |
+|                                                       |
 |*=====================================================*|
 
   This document is a manual on advanced emoticon usage
@@ -22,7 +37,6 @@ facial expression, emotion, or action.
 
   Emoticons are the predecessor to what is now commonly 
 known as 'Emoji'
-
 
   This manual came about after I was having some trouble
 communicating a sarcastic comment over instant-messaging.
@@ -44,23 +58,29 @@ may find yourself needing to convey without using actual
 words.
 
 |*=====================================================*|
+|                                                       |
 |       SECTION 1: Smileys                              |
+|                                                       |
 |*=====================================================*|
 
   This section of the document will contain information
 on the following:
         - Smiling faces
         - Laughing faces
+        - Excited faces
 
 |*-----------------------------------------------------*|
 |       1.1: Standard smile                             |
 |*-----------------------------------------------------*|
 
         :-)
+
         :^)
 
           The standard smiling face. Use this to convey 
         happiness, satisfaction, wholesome intent.
+        
+        ":-) Hello world!"
 
           May be used interchangeably with ':)', depend-
         ing on which groups it is used within.
@@ -77,6 +97,8 @@ on the following:
           A slightly less wholesome smile. This may be
         used to to indicate sarcasm, passive-aggressive-
         ness, jest, or vague malice.
+        
+        "Whatever you say :)"
 
           May be used interchangeably with ':-)', depen-
         ding on which groups it is used within.
@@ -89,10 +111,13 @@ on the following:
 |*-----------------------------------------------------*|
 
         :-D
+
         :D
 
           Smiling with mouth open. Use this to indicate
         joy, euphoria, optimism.
+
+        "Feelin' good! :D"
 
           Personally, I use this emoticon to let a joke
         hang.
@@ -103,11 +128,14 @@ on the following:
 |*-----------------------------------------------------*|
 
         xD
+
         XD
 
           Laughing with closed eyes, open mouth. Self e-
         xplanatory, really. Use this to indicate someth-
         ing is really funny.
+
+        "xD LOL NO WAY!"
 
           Often times referred to as just 'X.D' (pronou-
         nced "ecks dee").
@@ -121,10 +149,17 @@ on the following:
 |*-----------------------------------------------------*|
 
         :-/
+
         :/
 
           Use this to convey you're unsure about someth-
         ing, skeptical, or vaguely unhappy.
+
+        "I don't have a good feeling about that :/"
+
+          Can be typed with either a forward-slash (/)
+        or a backslash (\) with no real change in mean-
+        ing. ':/' & ':\' can be used interchangeably.
 
 
 |*-----------------------------------------------------*|
@@ -135,6 +170,8 @@ on the following:
 
           Can be used to signify friendly, wholesome in-
         tent.
+
+        ":3 How's it going?"
 
           This smiley is generally used in a similar fa-
         shion to ':-)'*, and depending on the group it
@@ -154,12 +191,20 @@ on the following:
           Use this face to express excitement, satisfac-
         tion, joy.
 
+        "I can't wait! ^_^"
+
           
 |*-----------------------------------------------------*|
 |       1.8: Open mouth smile 2                         |
 |*-----------------------------------------------------*|
 
         :p
+
+        d:
+
+          Used to convey a playful, friendly smile. 
+
+        "Feelin' good! :p"
         
           Indicates slightly more quiet amusement than
         ':D'*, but can still be used interchangeably in
@@ -177,8 +222,41 @@ on the following:
           Indicates shock, surprise, amazement, embarra-
         ssment, or vague terror.
 
+        "John Doe broke his arm last week."
+        "0.0 no kidding?"
+
           Although it expresses some excitement, it can-
         not exactly be used interchangeably with "^_^"*,
         as this one conveys a less positive tone. 
 
         *See <SECTION 1.7: Excited>
+
+
+|*-----------------------------------------------------*|
+|       1.10: Malicious smile                           |
+|*-----------------------------------------------------*|               
+
+        >:-)
+
+        >:)
+
+          Indicates malicious intent. Use this when pla-
+        ying a mean trick on your friends.
+
+        "I hope you fall over >:-)"
+
+          Typically used either ironically or comedical-
+          ly. Not many actual evil or malicious people 
+        are using this emoticon.
+
+
+|*-----------------------------------------------------*|
+|       1.11: Smile with sunglasses                     |
+|*-----------------------------------------------------*|               
+
+        B-)
+
+          Use this to convey that you feel badass or c-
+        ool about something.
+
+        "I just installed Gentoo Linux B-)"

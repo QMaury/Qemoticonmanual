@@ -178,4 +178,4 @@ on the following:
         not exactly be used interchangeably with "^_^"*,
         as this one conveys a less positive tone. 
 
-        *See <SECTION 1.6: Excited>
+        *See <SECTION 1.7: Excited>

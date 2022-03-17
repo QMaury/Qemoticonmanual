@@ -1,4 +1,4 @@
-Qemoticon usage - A guide to advanced emoticon usage.
+Qemoticonmanual - A guide to advanced emoticon usage.
 Copyright 2022 Octavio "qms" Maury
 
 |*=====================================================*|
@@ -171,7 +171,7 @@ on the following:
 
         0.0
 
-          Indicates shock, excitement, embarrassment, or
+          Indicates shock, surprise, embarrassment, or
         vague terror.
 
           Although it expresses excitement, it cannot

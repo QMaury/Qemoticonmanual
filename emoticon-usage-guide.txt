@@ -171,11 +171,12 @@ on the following:
 
         0.0
 
-          Indicates shock, surprise, embarrassment, or
-        vague terror.
+          Indicates shock, surprise, amazement, embarra-
+        ssment, or vague terror.
 
-          Although it expresses excitement, it cannot
-        exactly be used interchangeably with "^_^"*, as
-        this one conveys a slightly less positive tone. 
+          Although it expresses some excitement, it can-
+        not exactly be used interchangeably with "^_^"*,
+        as this one conveys a slightly less positive
+        tone. 
 
         *See <SECTION 1.6: Excited>

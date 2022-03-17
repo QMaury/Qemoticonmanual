@@ -133,11 +133,14 @@ on the following:
 
         :3
 
-          This smiley is generally used in a similar fa-
-        shion to ':-)'*.
+          Can be used to signify friendly, wholesome in-
+        tent.
 
-          Depending on the group this emoticon is used
-        within
+          This smiley is generally used in a similar fa-
+        shion to ':-)'*, and depending on the group it
+        is used within, it could be used completely int-
+        erchangeably. Essentially just a different flav-
+        our of ':-)'.
 
         *See <See SECTION 1.1: Standard smile>
 

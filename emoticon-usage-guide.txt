@@ -176,7 +176,6 @@ on the following:
 
           Although it expresses some excitement, it can-
         not exactly be used interchangeably with "^_^"*,
-        as this one conveys a slightly less positive
-        tone. 
+        as this one conveys a less positive tone. 
 
         *See <SECTION 1.6: Excited>

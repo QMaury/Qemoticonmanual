@@ -1,4 +1,5 @@
 Qemoticon usage - A guide to advanced emoticon usage.
+Copyright 2022 Octavio "qms" Maury
 
 |*=====================================================*|
 |       TABLE OF CONTENTS                               |

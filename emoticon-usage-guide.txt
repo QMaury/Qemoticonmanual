@@ -1,71 +1,66 @@
 Qemoticonmanual - A guide to advanced emoticon usage.
 Copyright 2022 Octavio "qms" Maury
 
-|*=====================================================*|
-|                                                       |
-|       TABLE OF CONTENTS                               |
-|          SECTION 0: Introduction                      |
-|                                                       |
-|          SECTION 1: Smileys                           |
-|             ├──  SECTION 1.1: Standard smile          |
-|             ├──  SECTION 1.2: Slight smile            |
-|             ├──  SECTION 1.3: Open mouth smile        |
-|             ├──  SECTION 1.4: Open mouth laugh        |
-|             ├──  SECTION 1.5: So-so mouth             |
-|             ├──  SECTION 1.6: Cute smile              |
-|             ├──  SECTION 1.7: Excited                 |
-|             ├──  SECTION 1.8: Open mouth smile 2      |
-|             ├──  SECTION 1.9: Shocked                 |
-|             ├──  SECTION 1.10: Malicious smile        |
-|             └──  SECTION 1.11: Smile with sunglasses  |
-|                                                       |
-|*=====================================================*|
+|*=======================================================================*|
+|                                                                         |
+|       TABLE OF CONTENTS                                                 |
+|          SECTION 0: Introduction                                        |
+|                                                                         |
+|          SECTION 1: Smileys                                             |
+|             ├──  SECTION 1.1: Standard smile                            |
+|             ├──  SECTION 1.2: Slight smile                              |
+|             ├──  SECTION 1.3: Open mouth smile                          |
+|             ├──  SECTION 1.4: Open mouth laugh                          |
+|             ├──  SECTION 1.5: So-so mouth                               |
+|             ├──  SECTION 1.6: Cute smile                                |
+|             ├──  SECTION 1.7: Excited                                   |
+|             ├──  SECTION 1.8: Open mouth smile 2                        |
+|             ├──  SECTION 1.9: Shocked                                   |
+|             ├──  SECTION 1.10: Malicious smile                          |
+|             └──  SECTION 1.11: Smile with sunglasses                    |
+|                                                                         |
+|*=======================================================================*|
 
-|*=====================================================*|
-|                                                       |
-|       SECTION 0: Introduction                         |
-|                                                       |
-|*=====================================================*|
+|*=======================================================================*|
+|                                                                         |
+|       SECTION 0: Introduction                                           |
+|                                                                         |
+|*=======================================================================*|
 
-  This document is a manual on advanced emoticon usage
-for emailing, instant-messaging, forum posting and any
-other form of text-based communication on the net.
+  This document is a manual on advanced emoticon usage for emailing, ins-
+tant-messaging, forum posting and any other form of text-based communica-
+tion on the net.
 
-  An emoticon -- short for "emotion icon" -- is a small
-string of text that can be used to represent a human 
-facial expression, emotion, or action.
+  An emoticon -- short for "emotion icon" -- is a small string of text t-
+hat can be used to represent a human facial expression, emotion, or action.
 
-  Emoticons are the predecessor to what is now commonly 
-known as 'Emoji'
+  Emoticons are the predecessor to what is now commonly known as 'Emoji'.
 
-  This manual came about after I was having some trouble
-communicating a sarcastic comment over instant-messaging.
+  This manual came about after I was having some trouble communicating a
+sarcastic comment over instant-messaging.
 
-  I tried doing an internet search for an emoticon that
-could appropiately express sarcasm, and quickly found
-that there is an incredibly vast selection of emoticons
-that can be used for a large range of different meanings.
+  I tried doing an internet search for an emoticon that could appropiate-
+ly express sarcasm, and quickly found that there is an incredibly vast 
+selection of emoticons that can be used for a large range of different
+meanings.
 
-  Seeing that a lot of emoticon information is mostly 
-spread out on the net over different sites, different
-pages, or just word of mouth, I set out to confine as
-much information about emoticon usage to a single 
-plaintext document.
+  Seeing that a lot of emoticon information is mostly spread out on the
+net over different sites, different pages, or just word of mouth, I set o-
+ut to confine as much information about emoticon usage to a single plaint-
+ext document.
 
-  I hope that this guide will be a useful way to quick-
-ly and easily find an emoticon for whatever emotion you
-may find yourself needing to convey without using actual
-words.
+  I hope that this guide will be a useful way to quick- ly and easily find
+an emoticon for whatever emotion you may find yourself needing to convey
+without using actual words.
 
-|*=====================================================*|
-|                                                       |
-|       SECTION 1: Smileys                              |
-|                                                       |
-|*=====================================================*|
+|*=======================================================================*|
+|                                                                         |
+|       SECTION 1: Smileys                                                |
+|                                                                         |
+|*=======================================================================*|
 
   This section of the document will contain information
-on the following:
-        - Smiling faces
+on the following: - Smiling faces
         - Laughing faces
         - Excited faces
 

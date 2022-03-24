@@ -59,112 +59,106 @@ without using actual words.
 |                                                                         |
 |*=======================================================================*|
 
-  This section of the document will contain information
-on the following: - Smiling faces
-        - Laughing faces
-        - Excited faces
+  This section of the document will contain information on the following:
+    - Smiling faces
+    - Laughing faces
+    - Excited faces
 
-|*-----------------------------------------------------*|
-|       1.1: Standard smile                             |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.1: Standard smile                                               |
+|*-----------------------------------------------------------------------*|
 
         :-)
 
         :^)
 
-          The standard smiling face. Use this to convey 
-        happiness, satisfaction, wholesome intent.
+            The standard smiling face. Use this to convey happiness, satis-
+        faction, wholesome intent.
         
         ":-) Hello world!"
 
-          May be used interchangeably with ':)', depend-
-        ing on which groups it is used within.
+            May be used interchangeably with ':)', depending on which groups
+        it is used within.
         
         *See <SECTION 1.2: Slight smile>
 
 
-|*-----------------------------------------------------*|
-|       1.2: Slight smile                               |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.2: Slight smile                                                 |
+|*-----------------------------------------------------------------------*|
 
         :)
 
-          A slightly less wholesome smile. This may be
-        used to to indicate sarcasm, passive-aggressive-
-        ness, jest, or vague malice.
-        
+            A slightly less wholesome smile. This may be used to to indic-
+        ate sarcasm, passive-aggressive- ness, jest, or vague malice.
+
         "Whatever you say :)"
 
-          May be used interchangeably with ':-)', depen-
-        ding on which groups it is used within.
+            May be used interchangeably with ':-)', depending on which gr-
+        oups it is used within.
         
         *See <SECTION 1.1: Standard smile>
 
 
-|*-----------------------------------------------------*|
-|       1.3: Open mouth smile                           |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.3: Open mouth smile                                             |
+|*-----------------------------------------------------------------------*|
 
         :-D
 
         :D
 
-          Smiling with mouth open. Use this to indicate
-        joy, euphoria, optimism.
+            Smiling with mouth open. Use this to indicate joy, euphoria, 
+        optimism.
 
         "Feelin' good! :D"
 
-          Personally, I use this emoticon to let a joke
-        hang.
+        Personally, I use this emoticon to let a joke hang.
 
 
-|*-----------------------------------------------------*|
-|       1.4: Open mouth laugh                           |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.4: Open mouth laugh                                             |
+|*-----------------------------------------------------------------------*|
 
         xD
 
         XD
 
-          Laughing with closed eyes, open mouth. Self e-
-        xplanatory, really. Use this to indicate someth-
-        ing is really funny.
+            Laughing with closed eyes, open mouth. Self explanatory, really.
+        Use this to indicate someth- ing is really funny.
 
         "xD LOL NO WAY!"
 
-          Often times referred to as just 'X.D' (pronou-
-        nced "ecks dee").
+            Often times referred to as just 'X.D' (pronounced "ecks dee").
 
-          On the modern net, this emoticon is generally
-        used ironically.
+            On the modern net, this emoticon is generally used ironically.
 
 
-|*-----------------------------------------------------*|
-|       1.5: So-so mouth                                |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.5: So-so mouth                                                  |
+|*-----------------------------------------------------------------------*|
 
         :-/
 
         :/
 
-          Use this to convey you're unsure about someth-
-        ing, skeptical, or vaguely unhappy.
+            Use this to convey you're unsure about something, skeptical, or 
+        vaguely unhappy.
 
         "I don't have a good feeling about that :/"
 
-          Can be typed with either a forward-slash (/)
-        or a backslash (\) with no real change in mean-
-        ing. ':/' & ':\' can be used interchangeably.
+            Can be typed with either a forward-slash (/) or a backslash (\) 
+        with no real change in meaning. ':/' & ':\' can be used interch-
+        angeably.
 
 
-|*-----------------------------------------------------*|
-|       1.6: Cute smile                                 |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.6: Cute smile                                                   |
+|*-----------------------------------------------------------------------*|
 
         :3
 
-          Can be used to signify friendly, wholesome in-
-        tent.
+          Can we used to signify friendly, wholesome intent.
 
         ":3 How's it going?"
 
@@ -177,9 +171,9 @@ on the following: - Smiling faces
         *See <See SECTION 1.1: Standard smile>
 
 
-|*-----------------------------------------------------*|
-|       1.7: Excited                                    |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.7: Excited                                                      |
+|*-----------------------------------------------------------------------*|
 
         ^_^
 
@@ -189,9 +183,9 @@ on the following: - Smiling faces
         "I can't wait! ^_^"
 
           
-|*-----------------------------------------------------*|
-|       1.8: Open mouth smile 2                         |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.8: Open mouth smile 2                                           |
+|*-----------------------------------------------------------------------*|
 
         :P
 
@@ -211,9 +205,9 @@ on the following: - Smiling faces
         *See <SECTION 1.3: Open mouth smile>
 
 
-|*-----------------------------------------------------*|
-|       1.9: Shocked                                    |
-|*-----------------------------------------------------*|
+|*-----------------------------------------------------------------------*|
+|       1.9: Shocked                                                      |
+|*-----------------------------------------------------------------------*|
 
         0.0
 
@@ -230,9 +224,9 @@ on the following: - Smiling faces
         *See <SECTION 1.7: Excited>
 
 
-|*-----------------------------------------------------*|
-|       1.10: Malicious smile                           |
-|*-----------------------------------------------------*|               
+|*-----------------------------------------------------------------------*|
+|       1.10: Malicious smile                                             |
+|*-----------------------------------------------------------------------*|               
 
         >:-)
 
@@ -248,9 +242,9 @@ on the following: - Smiling faces
         are using this emoticon.
 
 
-|*-----------------------------------------------------*|
-|       1.11: Smile with sunglasses                     |
-|*-----------------------------------------------------*|               
+|*-----------------------------------------------------------------------*|
+|       1.11: Smile with sunglasses                                       |
+|*-----------------------------------------------------------------------*|               
 
         B-)
 
@@ -260,9 +254,9 @@ on the following: - Smiling faces
         "I just installed Gentoo Linux B-)"
 
 
-|*-----------------------------------------------------*|
-|       1.12: Malicious sunglasses                      |
-|*-----------------------------------------------------*|               
+|*-----------------------------------------------------------------------*|
+|       1.12: Malicious sunglasses                                        |
+|*-----------------------------------------------------------------------*|               
 
         >B-)
 
@@ -272,9 +266,9 @@ on the following: - Smiling faces
         "Fuck you, dad! >B-)"
 
 
-|*-----------------------------------------------------*|
-|       1.13: Smug smile                                |
-|*-----------------------------------------------------*|               
+|*-----------------------------------------------------------------------*|
+|       1.13: Smug smile                                                  |
+|*-----------------------------------------------------------------------*|               
 
         :-]
         
@@ -287,9 +281,9 @@ on the following: - Smiling faces
         "You don't say.. :-]"
 
 
-|*-----------------------------------------------------*|
-|       1.14: Wink                                      |
-|*-----------------------------------------------------*|               
+|*-----------------------------------------------------------------------*|
+|       1.14: Wink                                                        |
+|*-----------------------------------------------------------------------*|               
 
         ;]
 
@@ -307,9 +301,9 @@ on the following: - Smiling faces
         tter of personal preference; I think it looks 
         better with a square bracket.
 
-|*-----------------------------------------------------*|
-|       1.15: Standard frown                            |
-|*-----------------------------------------------------*|               
+|*-----------------------------------------------------------------------*|
+|       1.15: Standard frown                                              |
+|*-----------------------------------------------------------------------*|               
 
         :-(
 
@@ -323,9 +317,9 @@ on the following: - Smiling faces
           Fairly self explanatory.
 
 
-|*-----------------------------------------------------*|
-|       1.16: Teary frown                               |
-|*-----------------------------------------------------*|               
+|*-----------------------------------------------------------------------*|
+|       1.16: Teary frown                                                 |
+|*-----------------------------------------------------------------------*|               
 
         :,(
 

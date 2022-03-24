@@ -158,15 +158,14 @@ without using actual words.
 
         :3
 
-          Can we used to signify friendly, wholesome intent.
+            Can we used to signify friendly, wholesome intent.
 
         ":3 How's it going?"
 
-          This smiley is generally used in a similar fa-
-        shion to ':-)'*, and depending on the group it
-        is used within, it could be used completely int-
-        erchangeably. Essentially just a different flav-
-        our of ':-)'.
+            This smiley is generally used in a similar fa- shion to ':-)'*,
+        and depending on the group it is used within, it could be used com-
+        pletely interchangeably. Essentially just a different flavour of 
+        ':-)'.
 
         *See <See SECTION 1.1: Standard smile>
 
@@ -177,8 +176,7 @@ without using actual words.
 
         ^_^
 
-          Use this face to express excitement, satisfac-
-        tion, joy.
+            Use this face to express excitement, satisfaction, joy.
 
         "I can't wait! ^_^"
 
@@ -191,16 +189,14 @@ without using actual words.
 
         d:
 
-          Used to convey a playful, friendly smile. 
+            Used to convey a playful, friendly smile. 
 
         "Feelin' good! :p"
         
-          Indicates slightly more quiet amusement than
-        ':D'*, but can still be used interchangeably in
-        most groups.
+            Indicates slightly more quiet amusement than ':D'*, but can 
+        still be used interchangeably in most groups.
 
-          Could also be interpreted as sticking a ton-
-        gue out.
+            Could also be interpreted as sticking a tongue out.
 
         *See <SECTION 1.3: Open mouth smile>
 
@@ -211,15 +207,15 @@ without using actual words.
 
         0.0
 
-          Indicates shock, surprise, amazement, embarra-
-        ssment, or vague terror.
+            Indicates shock, surprise, amazement, embarrassment, or vague 
+        terror.
 
         "John Doe broke his arm last week."
         "0.0 no kidding?"
 
-          Although it expresses some excitement, it can-
-        not exactly be used interchangeably with "^_^"*,
-        as this one conveys a less positive tone. 
+            Although it expresses some excitement, it cannot exactly be 
+        used interchangeably with "^_^"*, as this one conveys a less posi-
+        tive tone. 
 
         *See <SECTION 1.7: Excited>
 
@@ -232,14 +228,13 @@ without using actual words.
 
         >:)
 
-          Indicates malicious intent. Use this when pla-
-        ying a mean trick on your friends.
+            Indicates malicious intent. Use this when playing a mean tri-
+        ck on your friends.
 
         "I hope you fall over >:-)"
 
-          Typically used either ironically or comedical-
-          ly. Not many actual evil or malicious people 
-        are using this emoticon.
+            Typically used either ironically or comedically. Not many ac-
+        tual evil or malicious people are using this emoticon.
 
 
 |*-----------------------------------------------------------------------*|
@@ -248,8 +243,7 @@ without using actual words.
 
         B-)
 
-          Use this to convey that you feel badass or c-
-        ool about something.
+            Use this to convey that you feel badass or cool about something.
 
         "I just installed Gentoo Linux B-)"
 
@@ -260,8 +254,8 @@ without using actual words.
 
         >B-)
 
-          Very similar to <SECTION 1.11>, just less wh-
-        olesome. More attitude.
+            Very similar to <SECTION 1.11>, just less wholesome. More atti-
+        tude.
 
         "Fuck you, dad! >B-)"
 
@@ -274,9 +268,8 @@ without using actual words.
         
         :]
 
-          Similar to <SECTION 1.1> and <SECTION 1.2>,
-        except more smug, more tongue-in-cheek. I alwa-
-        ys thought of it like a stifled laugh.
+            Similar to <SECTION 1.1> and <SECTION 1.2>, except more smug,
+         more tongue-in-cheek. I always thought of it like a stifled laugh.
 
         "You don't say.. :-]"
 
@@ -289,17 +282,15 @@ without using actual words.
 
         ;-]
 
-          Use this if you're being flirtatious.
+            Use this if you're being flirtatious.
 
         "lookin' good ;]"
 
-          Could also be used ironically on most parts
-        of the net.
+            Could also be used ironically on most parts of the net.
 
-          The ";]" may be written as ";)" with a paren-
-        theses rather than a square bracket. Just a ma-
-        tter of personal preference; I think it looks 
-        better with a square bracket.
+            The ";]" may be written as ";)" with a parentheses rather than 
+        a square bracket. Just a matter of personal preference; I think it
+        looks better with a square bracket.
 
 |*-----------------------------------------------------------------------*|
 |       1.15: Standard frown                                              |
@@ -309,12 +300,12 @@ without using actual words.
 
         :(
 
-          Use this to express sadness, disappointment,
-        something is wrong. You are upset.
+            Use this to express sadness, disappointment, something is wrong.
+        You are upset.
 
         "That's too bad.. :-("
 
-          Fairly self explanatory.
+            Fairly self explanatory.
 
 
 |*-----------------------------------------------------------------------*|
